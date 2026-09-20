@@ -1,0 +1,7 @@
+{
+  "name": "Controle de Despesas",
+  "description": "Controle financeiro pessoal com monitoramento de gastos mensais, integração e saldos de M-Pesa, e-Mola e bancos com gráficos automáticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
